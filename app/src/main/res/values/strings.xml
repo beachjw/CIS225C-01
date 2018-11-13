@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CIS225C-HYB1 Midterm James Beach</string>
+    <string name="title">Midterm - James Beach</string>
+    <string name="xwing_text">X-Wing</string>
+    <string name="tiefighter_text">Tie Fighter</string>
+    <string name="press1">Press 1</string>
+    <string name="press2">Press 2</string>
+</resources>
